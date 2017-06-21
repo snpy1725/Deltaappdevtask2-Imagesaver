@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image saver</string>
+    <string name="Insert_box">Add Photo</string>
+    <string name="delete_box">Delete Photo</string>
+    <string name="crop_box">Crop Image</string>
+    <string name="photo_adder">Add a Photo!</string>
+    <string name="image_information">Image description</string>
+    <string name="caption_msg">No Caption</string>
+</resources>
